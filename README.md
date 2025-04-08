@@ -1,6 +1,6 @@
 ## Inheritance
 
-**Overview**: Lets child classes inherit and extend functionality from parent classes.
+**Overview**: Lets child classes inherit and extend functionality from parent classes
 
 **Key Benefits**:
 - Avoids repeating code by sharing common logic

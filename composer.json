@@ -1,0 +1,15 @@
+{
+    "name": "andrevictor/php-poo-inheritance",
+    "autoload": {
+        "psr-4": {
+            "Andrevictor\\PhpPooInheritance\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "André Victor Soares Castro",
+            "email": "95365578+AndreVsc@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
